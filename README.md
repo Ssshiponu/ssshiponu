@@ -20,8 +20,6 @@ Skilled in **Python, Django, JavaScript, and Tailwind CSS**, I enjoy creating bo
 
 ## 🛠️ Technical Skills
 
-### 🌐 Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -35,33 +33,22 @@ Skilled in **Python, Django, JavaScript, and Tailwind CSS**, I enjoy creating bo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
----
-
-### 🗄️ Database
+</br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-### 📰 CMS
+</br>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce\&logoColor=white)
 ![LiteCart](https://img.shields.io/badge/LiteCart-008000?style=for-the-badge\&logo=opencart\&logoColor=white)
-
----
-
-### 🛠️ Tools
+</br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-
-## 📬 Get in Touch
+</br>
 
 💌 **Email:** [sshiponuddin22@gmail.com](mailto:sshiponuddin22@gmail.com)  
 📱 **Phone:** +8801926079347  
