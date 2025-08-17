@@ -25,10 +25,7 @@ Skilled in **Python, Django, JavaScript, and Tailwind CSS**, I enjoy creating bo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Aline.js](https://img.shields.io/badge/Aline.js-000000?style=for-the-badge\&logo=javascript\&logoColor=white)
-
----
-
-### ⚙️ Backend
+</br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
