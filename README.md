@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mohin Uddin
 
-**Full Stack Developer**  
-> Modern custom web app & e-commerce development specialist  
+**A Full Stack Developer.**  
+> Modern custom web app, API and AI automation development specialist.
 
